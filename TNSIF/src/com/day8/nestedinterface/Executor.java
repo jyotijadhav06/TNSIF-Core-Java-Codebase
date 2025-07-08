@@ -1,4 +1,4 @@
-package com.eight.nestedinterface;
+package com.day8.nestedinterface;
 
 public class Executor {
 	
